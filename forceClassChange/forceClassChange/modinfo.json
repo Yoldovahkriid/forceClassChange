@@ -1,0 +1,14 @@
+{
+  "type": "Code",
+  "modid": "forceclasschange",
+  "name": "forceClassChange",
+  "authors": [
+    "Yoldovahkriid"
+  ],
+  "description": "Adds a command for admins to force people to change their class",
+  "version": "1.0.2",
+  "dependencies": {
+    "game": "1.22.0"
+  },
+  "side": "Server"
+}
